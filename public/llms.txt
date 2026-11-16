@@ -1,16 +1,16 @@
 # My Blog
 
-> Posts about Angular, AnalogJS and web dev. https://DonCorleone.github.io/ice-dream/
+> Posts about Angular, AnalogJS and web dev. https://periwinkle32.github.io/ice-dream/
 
 All pages are also available as raw Markdown by appending `.md` to the URL.
 
 ## Blog
 
-- [Welcome to My Blog](https://DonCorleone.github.io/ice-dream/blog/welcome-to-my-blog.md): First post on this brand-new AnalogJS blog.
-- [Content Routes in AnalogJS](https://DonCorleone.github.io/ice-dream/blog/content-routes-in-analogjs.md): Markdown content routes out of the box.
-- [Prerendering Blog Posts](https://DonCorleone.github.io/ice-dream/blog/prerendering-blog-posts.md): Static generation of content routes.
+- [Welcome to My Blog](https://periwinkle32.github.io/ice-dream/blog/welcome-to-my-blog.md): First post on this brand-new AnalogJS blog.
+- [Content Routes in AnalogJS](https://periwinkle32.github.io/ice-dream/blog/content-routes-in-analogjs.md): Markdown content routes out of the box.
+- [Prerendering Blog Posts](https://periwinkle32.github.io/ice-dream/blog/prerendering-blog-posts.md): Static generation of content routes.
 
 ## Pages
 
-- [Getting Started](https://DonCorleone.github.io/ice-dream/page/getting-started.md): How this blog is built and how to write posts.
-- [Astro Angular Integration](https://DonCorleone.github.io/ice-dream/page/astro-angular.md): Render Angular components as islands in Astro with @analogjs/astro-angular.
+- [Getting Started](https://periwinkle32.github.io/ice-dream/page/getting-started.md): How this blog is built and how to write posts.
+- [Astro Angular Integration](https://periwinkle32.github.io/ice-dream/page/astro-angular.md): Render Angular components as islands in Astro with @analogjs/astro-angular.

@@ -2,7 +2,7 @@
 
 backend:
   name: github
-  repo: DonCorleone/ice-dream
+  repo: periwinkle32/ice-dream
   branch: main
 
 # Use the local backend when running on localhost (npm run dev)

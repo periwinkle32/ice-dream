@@ -40,7 +40,7 @@ export default defineConfig(({ mode }) => ({
             outputSourceFile: (file) => file.content,
           },
         ],
-        sitemap: { host: 'https://DonCorleone.github.io/ice-dream' },
+        sitemap: { host: 'https://periwinkle32.github.io/ice-dream' },
       },
     }),
   ],

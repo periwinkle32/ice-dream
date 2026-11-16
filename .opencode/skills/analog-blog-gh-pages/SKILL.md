@@ -5,7 +5,7 @@ description: Scaffold a markdown blog on latest AnalogJS (Angular) with GitHub P
 
 # AnalogJS Blog on GitHub Pages
 
-Reference implementation: `DonCorleone/ice-dream` (live: `https://DonCorleone.github.io/ice-dream/`, custom domain optional).
+Reference implementation: `periwinkle32/ice-dream` (live: `https://periwinkle32.github.io/ice-dream/`, custom domain optional).
 
 ## 1. Bootstrap
 
