@@ -1,6 +1,23 @@
 @import '@picocss/pico/css/pico.min.css';
 @import 'prismjs/themes/prism.css';
 
+/* Überschreibe Pico.css Hintergrundfarben */
+:root {
+  --pico-background-color: #e6f2ff !important;
+}
+
+html {
+  background-color: #e6f2ff !important;
+  min-height: 100vh;
+  margin: 0;
+}
+
+body {
+  background-color: #e6f2ff !important;
+  min-height: 100vh;
+  margin: 0;
+}
+
 /* Prism default theme adds a light text-shadow to code — ugly on dark. */
 pre,
 pre code,
@@ -15,6 +32,22 @@ app-root {
   max-width: 960px;
   margin: 0 auto;
   padding: 0 var(--pico-spacing);
+}
+
+:root {
+  --pico-background-color: #ffcccc;
+}
+
+html {
+  background-color: var(--pico-background-color) !important;
+  min-height: 100vh;
+  margin: 0;
+}
+
+body {
+  background-color: var(--pico-background-color) !important;
+  min-height: 100vh;
+  margin: 0;
 }
 
 main {
@@ -156,7 +189,7 @@ pre code {
 @media (prefers-color-scheme: dark) {
   :root {
     color-scheme: dark;
-    --pico-background-color: #14161c;
+    --pico-background-color: #1a1f3a !important;
     --pico-color: #e4e7ee;
     --pico-muted-color: #98a0b3;
     --pico-muted-border-color: #2b303d;
@@ -168,6 +201,14 @@ pre code {
     --pico-card-border-color: #2b303d;
     --pico-code-background-color: #1b1f29;
     --pico-code-color: #d7dce8;
+  }
+
+  html {
+    background-color: #1a1f3a !important;
+  }
+  
+  body {
+    background-color: #1a1f3a !important;
   }
 
   pre {
