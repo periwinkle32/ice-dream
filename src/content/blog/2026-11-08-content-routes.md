@@ -1,8 +1,8 @@
 ---
-title: kihi
+title: Herzlich willkommen bei ice dream
 slug: content-routes-in-analogjs
-description: How markdown files become routes and how to list and render them.
-coverImage: https://images.unsplash.com/photo-1455390582262-044cdead277a?w=1200
+description: Hier werden wir jeden mittwoch sachen posten!
+coverImage: /ice-dream/images/uploads/schlittschuhe.jpg
 publishedAt: 2026-11-08
 tags:
   - analogjs
