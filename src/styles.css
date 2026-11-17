@@ -1,6 +1,3 @@
-@import '@picocss/pico/css/pico.min.css';
-@import 'prismjs/themes/prism.css';
-
 /* Überschreibe Pico.css Hintergrundfarben */
 :root {
   --pico-background-color: #e6f2ff !important;
