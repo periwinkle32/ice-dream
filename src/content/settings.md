@@ -1,7 +1,7 @@
 ---
-title: My Blog
+title: Unser logo
 tagline: Posts about Angular, AnalogJS and web dev.
-logo: /ice-dream/analog.svg
+logo: /ice-dream/images/uploads/19D1CB25-9FB4-42E8-B542-CC9E912F76E6.JPG
 socialLinks:
   - platform: GitHub
     url: https://github.com/periwinkle32/ice-dream
