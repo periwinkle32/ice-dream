@@ -16,11 +16,20 @@ body {
 }
 
 /* Logo Styling */
+.site-nav .brand {
+  background: transparent;
+  padding: 0;
+}
+
 .logo {
   height: 40px;
   width: auto;
   margin-right: 0.5rem;
   vertical-align: middle;
+  display: inline-block;
+  padding: 0;
+  border: none;
+  background: transparent;
 }
 
 /* Prism default theme adds a light text-shadow to code — ugly on dark. */
