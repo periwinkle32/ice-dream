@@ -1,5 +1,5 @@
 ---
-title: Neva is the best
+title: kihi
 slug: content-routes-in-analogjs
 description: How markdown files become routes and how to list and render them.
 coverImage: https://images.unsplash.com/photo-1455390582262-044cdead277a?w=1200
