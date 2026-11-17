@@ -15,6 +15,14 @@ body {
   margin: 0;
 }
 
+/* Logo Styling */
+.logo {
+  height: 40px;
+  width: auto;
+  margin-right: 0.5rem;
+  vertical-align: middle;
+}
+
 /* Prism default theme adds a light text-shadow to code — ugly on dark. */
 pre,
 pre code,
@@ -29,22 +37,6 @@ app-root {
   max-width: 960px;
   margin: 0 auto;
   padding: 0 var(--pico-spacing);
-}
-
-:root {
-  --pico-background-color: #ffcccc;
-}
-
-html {
-  background-color: var(--pico-background-color) !important;
-  min-height: 100vh;
-  margin: 0;
-}
-
-body {
-  background-color: var(--pico-background-color) !important;
-  min-height: 100vh;
-  margin: 0;
 }
 
 main {
@@ -215,5 +207,9 @@ pre code {
 
   .post-card a {
     color: inherit;
+  }
+  
+  .logo {
+    filter: brightness(0.8);
   }
 }

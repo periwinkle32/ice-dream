@@ -9,7 +9,12 @@ import { PageAttributes } from './page.model';
   imports: [RouterOutlet, RouterLink, RouterLinkActive],
   template: `
     <nav class="site-nav">
-      <a routerLink="/" class="brand">{{ settings?.title ?? 'My Blog' }}</a>
+      <a routerLink="/" class="brand">
+        @if (settings?.logo) {
+          <img [src]="settings.logo" [alt]="settings.title" class="logo" />
+        }
+        {{ settings?.title ?? 'My Blog' }}
+      </a>
       <ul class="nav-links">
         <li>
           <a routerLink="/" [routerLinkActiveOptions]="{ exact: true }" routerLinkActive="active">Home</a>
